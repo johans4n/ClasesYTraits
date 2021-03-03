@@ -1,4 +1,4 @@
-# ScalaClases :pencil:
+# ClasesYTraits :pencil:
 
 ClasesYTraits es una colección de ejemplos de Clases y Traits en Scala.
 
